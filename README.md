@@ -16,7 +16,7 @@ Number of Respondents: 1259
 
 ## Findings and Analysis
 
-Preliminary questions:
+%%% Preliminary Questions:
 
 • What are the predictors of mental health issues?
 
@@ -24,6 +24,16 @@ Preliminary questions:
 workers and self-employed?
 
 • What is the relationship between age and gender when seeking treatment?
+
+### Summary
+
+• Exercise helped the team employ cleaning and analytics skills learned to-date
+
+• Limited “high” correlation between survey responses
+
+• Observations/inferences do not imply causation
+
+• Teamwork was key to discovering areas of focus and analysis
 
 ## License
 
