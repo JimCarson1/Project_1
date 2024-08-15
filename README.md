@@ -17,9 +17,12 @@ Number of Respondents: 1259
 ## Findings and Analysis
 
 Preliminary questions:
+
 • What are the predictors of mental health issues?
+
 • Does the percentage of respondents in treatment vary by total population, remote 
 workers and self-employed?
+
 • What is the relationship between age and gender when seeking treatment?
 
 ## License
