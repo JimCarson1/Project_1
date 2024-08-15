@@ -16,7 +16,7 @@ Number of Respondents: 1259
 
 ## Findings and Analysis
 
-%%% Preliminary Questions:
+### Preliminary Questions:
 
 • What are the predictors of mental health issues?
 
