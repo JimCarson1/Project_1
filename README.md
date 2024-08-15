@@ -22,6 +22,6 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 For any questions or suggestions, feel free to contact:
 
-Name: Jim Carson, Lou, Connor McCall, Natasia McLean
+Name: Jim Carson, Lou Danjar, Connor McCall, Natasia McLean
 
 GitHub: jimcarsonone
