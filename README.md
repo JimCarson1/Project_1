@@ -45,4 +45,4 @@ For any questions or suggestions, feel free to contact:
 
 Name: Jim Carson, Lou Danjar, Connor McCall, Natasia McLean
 
-GitHub: jimcarsonone
+GitHub: https://github.com/JimCarson1/Project_1.git
