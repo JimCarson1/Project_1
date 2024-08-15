@@ -9,7 +9,9 @@
 This dataset is from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplaced.
 
 Dataset: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey?select=survey.csv#:~:text=Download%20(-,50,-kB
+
 Year: 2014
+
 Number of Respondents: 1259
 
 ## License
@@ -21,4 +23,5 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 For any questions or suggestions, feel free to contact:
 
 Name: Jim Carson, Lou, Connor McCall, Natasia McLean
+
 GitHub: jimcarsonone
